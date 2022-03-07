@@ -1,5 +1,5 @@
 - 👋 I’m @nav1th
-- 👀 I’m interested in rust, linux and other open sources
+- 👀 I’m interested in rust, linux and open source projects.
 - 📫 navith@keemail.me
 
 <!---
