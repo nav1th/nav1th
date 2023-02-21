@@ -12,5 +12,3 @@ Just some stuff I'm learning...
   -  Python
     
 
-navith@keemail.me
-
